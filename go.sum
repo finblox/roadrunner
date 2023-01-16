@@ -491,6 +491,8 @@ github.com/fatih/color v1.13.0 h1:8LOYc1KYPPmyKMuN8QV2DNRWNbLo6LZ0iLs8+mlH53w=
 github.com/fatih/color v1.13.0/go.mod h1:kLAiJbzzSOZDVNGyDpeOxJ47H46qBXwg5ILebYFFOfk=
 github.com/felixge/httpsnoop v1.0.3 h1:s/nj+GCswXYzN5v2DpNMuMQYe+0DDwt5WVCU6CWBdXk=
 github.com/felixge/httpsnoop v1.0.3/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
+github.com/finblox/http/v3 v3.0.0-20230123165829-aedd877fb8f0 h1:3v1H0mvqv4XeGAOMt/0cJLycjJTTLsrMVOcmkhYPKGA=
+github.com/finblox/http/v3 v3.0.0-20230123165829-aedd877fb8f0/go.mod h1:cuCvaCYjbB2IhQtZjyQmJc/40vpxBUHXwF9lG8C50Bc=
 github.com/fortytw2/leaktest v1.3.0 h1:u8491cBMTQ8ft8aeV+adlcytMZylmA5nnwwkRZjI8vw=
 github.com/frankban/quicktest v1.14.3 h1:FJKSZTDHjyhriyC81FLQ0LY93eSai0ZyR/ZIkd3ZUKE=
 github.com/fsnotify/fsnotify v1.6.0 h1:n+5WquG0fcWoWp6xPWfHdbskMCQaFnG6PfBrh1Ky4HY=
@@ -815,8 +817,6 @@ github.com/roadrunner-server/gzip/v3 v3.2.0 h1:RtpIQ6jcyPrnp6SbrSKrdKgObEduBEZVI
 github.com/roadrunner-server/gzip/v3 v3.2.0/go.mod h1:s0b7re9npjEAkG9Gm2sAzMrXVO/grR6TwwI20UpglD8=
 github.com/roadrunner-server/headers/v3 v3.2.0 h1:MHKSK4Xq8KEzx4Se+Sbjjic7/6GvgvHuiUxEw0oXBgE=
 github.com/roadrunner-server/headers/v3 v3.2.0/go.mod h1:kZAEWOm0IdD9QqJAecG/5NQ8qkLuOCGauL0JD1LvpKY=
-github.com/roadrunner-server/http/v3 v3.2.0 h1:Pptjo7D2Rb56chv4KLr8xTdRf8/n9Oulac2XmlDQ0k4=
-github.com/roadrunner-server/http/v3 v3.2.0/go.mod h1:hfvZuUHuxus7QfkdloM9JCkP/ls7e/uWJh0iwq1p4h4=
 github.com/roadrunner-server/informer/v3 v3.3.0 h1:43FU1lvPdb9WCBYkPHE6gWwa4XuACprycMPh74TZtQE=
 github.com/roadrunner-server/informer/v3 v3.3.0/go.mod h1:FzPCj4gBPyowcOUR1Sy23W9QZC3uIbiezD9USfeDj4I=
 github.com/roadrunner-server/jobs/v3 v3.2.0 h1:MoflYTqU4BM2MvP3D56t7aN3mrcOcTNg5nd81psjVps=

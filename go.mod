@@ -2,6 +2,8 @@ module github.com/roadrunner-server/roadrunner/v2
 
 go 1.19
 
+replace github.com/roadrunner-server/http/v3 => github.com/finblox/http/v3 v3.0.0-20230123165829-aedd877fb8f0
+
 require (
 	github.com/buger/goterm v1.0.4
 	github.com/dustin/go-humanize v1.0.0
